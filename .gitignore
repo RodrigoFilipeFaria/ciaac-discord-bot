@@ -9,6 +9,7 @@ package-lock.json
 # Database
 database/*.db
 database/*.db-*
+!database/.gitkeep
 
 # Logs
 logs/
